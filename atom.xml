@@ -41,6 +41,30 @@
   </entry>
   
   <entry>
+    <title>关于我？</title>
+    <link href="http://yoursite.com/2020/03/18/hit/"/>
+    <id>http://yoursite.com/2020/03/18/hit/</id>
+    <published>2020-03-17T16:52:51.000Z</published>
+    <updated>2020-03-17T11:35:55.125Z</updated>
+    
+    <content type="html"><![CDATA[<p>你好</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;你好&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="story" scheme="http://yoursite.com/categories/story/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="http://yoursite.com/2020/03/17/hello-world/"/>
     <id>http://yoursite.com/2020/03/17/hello-world/</id>
