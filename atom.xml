@@ -1,20 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>���������~</title>
+  <title>寧々の言葉</title>
   
-  <subtitle>���Ĥ�Ф���</subtitle>
+  <subtitle>Yorukiyoko`s skycape</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-17T02:05:04.844Z</updated>
+  <updated>2020-03-17T09:59:25.073Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>ҹ����</name>
+    <name>夜清子,twilightfei.xd@gmail.com</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于我？</title>
+    <link href="http://yoursite.com/2020/03/18/hi/"/>
+    <id>http://yoursite.com/2020/03/18/hi/</id>
+    <published>2020-03-17T16:52:51.000Z</published>
+    <updated>2020-03-17T09:59:25.073Z</updated>
+    
+    <content type="html"><![CDATA[<p>你好。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;你好。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
