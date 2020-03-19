@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-19T01:10:50.538Z</updated>
+  <updated>2020-03-19T01:19:53.359Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="http://yoursite.com/2020/03/19/PicLib/"/>
     <id>http://yoursite.com/2020/03/19/PicLib/</id>
     <published>2020-03-19T08:53:03.000Z</published>
-    <updated>2020-03-19T01:10:50.538Z</updated>
+    <updated>2020-03-19T01:19:53.359Z</updated>
     
-    <content type="html"><![CDATA[<p>![图片]new(PicLib/test.jpg “图片”)</p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/.com//test.jpg" alt="图片" title="图片"></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;![图片]new(PicLib/test.jpg “图片”)&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/.com//test.jpg&quot; alt=&quot;图片&quot; title=&quot;图片&quot;&gt;&lt;/p&gt;
 
       
     
