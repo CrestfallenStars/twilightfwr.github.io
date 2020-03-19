@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-18T09:06:29.212Z</updated>
+  <updated>2020-03-19T01:08:06.317Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>PicLib</title>
+    <link href="http://yoursite.com/2020/03/19/PicLib/"/>
+    <id>http://yoursite.com/2020/03/19/PicLib/</id>
+    <published>2020-03-19T00:53:03.851Z</published>
+    <updated>2020-03-19T01:08:06.317Z</updated>
+    
+    <content type="html"><![CDATA[<hr><p>title: PicLib<br>date: 2020-03-19 08:53:03<br>tags:<br>comments: false<br>​—<br>![图片]new(PicLib/test.jpg “图片”)</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;hr&gt;
+&lt;p&gt;title: PicLib&lt;br&gt;date: 2020-03-19 08:53:03&lt;br&gt;tags:&lt;br&gt;comments: false&lt;br&gt;​—&lt;br&gt;![图片]new(PicLib/test.jpg “图片”)&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>关于我的一些</title>
